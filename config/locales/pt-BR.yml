@@ -1,0 +1,25 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+---
+pt-BR:
+  spree:
+    admin:
+      tab:
+        favorite_products: Produtos favoritos
+    duplicate_favorite: 'já marcado como favorito'
+    favorite_products:
+      create:
+        success: 'O produto foi marcado com sucesso como favorito'
+    favorite_products_per_page: "Produtos favoritos mostrados por página"
+    favorite_products_settings: "Configurações de produtos favoritos"
+    mark_as_favorite: "Marcar como favorito"
+    unmark_as_favorite: "Remover dos favoritos"
+    listing_favorite_products: Listando produtos favoritos
+    listing_favorite_products_users: Listando usuários de produtos favoritos
+    user_count: Contagem de usuários
+    my_favorite_products: Meus produtos favoritos
+    product_image: Imagem do Produto
+    product_name: Nome do Produto
+    favorites: Favoritos
+    are_you_sure_to_remove_product: Tem certeza que deseja remover o produto?
+    login_to_add_favorite: Faça login para adicionar favorito
